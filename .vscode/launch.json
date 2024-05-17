@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Strings1",
+            "request": "launch",
+            "mainClass": "lessons.strings.Strings1",
+            "projectName": "core java_12eae548"
+        },
+        {
+            "type": "java",
             "name": "attern10",
             "request": "launch",
             "mainClass": "programing.patterns.attern10",
