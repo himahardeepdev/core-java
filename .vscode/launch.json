@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Pattern13",
+            "request": "launch",
+            "mainClass": "programing.patterns.Pattern13",
+            "projectName": "core java_12eae548"
+        },
+        {
+            "type": "java",
             "name": "Pattern12",
             "request": "launch",
             "mainClass": "programing.patterns.Pattern12",
