@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StringMethods",
+            "request": "launch",
+            "mainClass": "lessons.strings.StringMethods",
+            "projectName": "core java_12eae548"
+        },
+        {
+            "type": "java",
+            "name": "StringBuilderExample",
+            "request": "launch",
+            "mainClass": "lessons.strings.StringBuilderExample",
+            "projectName": "core java_12eae548"
+        },
+        {
+            "type": "java",
+            "name": "StringBuuffer1",
+            "request": "launch",
+            "mainClass": "lessons.strings.StringBuuffer1",
+            "projectName": "core java_12eae548"
+        },
+        {
+            "type": "java",
             "name": "Strings1",
             "request": "launch",
             "mainClass": "lessons.strings.Strings1",
