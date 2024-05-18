@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Pattern22",
+            "request": "launch",
+            "mainClass": "programing.patterns.Pattern22",
+            "projectName": "core java_12eae548"
+        },
+        {
+            "type": "java",
+            "name": "Pattern21",
+            "request": "launch",
+            "mainClass": "programing.patterns.Pattern21",
+            "projectName": "core java_12eae548"
+        },
+        {
+            "type": "java",
+            "name": "Pattern20",
+            "request": "launch",
+            "mainClass": "programing.patterns.Pattern20",
+            "projectName": "core java_12eae548"
+        },
+        {
+            "type": "java",
+            "name": "Patterns19",
+            "request": "launch",
+            "mainClass": "programing.patterns.Patterns19",
+            "projectName": "core java_12eae548"
+        },
+        {
+            "type": "java",
+            "name": "Pattern18",
+            "request": "launch",
+            "mainClass": "programing.patterns.Pattern18",
+            "projectName": "core java_12eae548"
+        },
+        {
+            "type": "java",
+            "name": "Pattern17",
+            "request": "launch",
+            "mainClass": "programing.patterns.Pattern17",
+            "projectName": "core java_12eae548"
+        },
+        {
+            "type": "java",
+            "name": "Pattern16",
+            "request": "launch",
+            "mainClass": "programing.patterns.Pattern16",
+            "projectName": "core java_12eae548"
+        },
+        {
+            "type": "java",
+            "name": "Pattern15",
+            "request": "launch",
+            "mainClass": "programing.patterns.Pattern15",
+            "projectName": "core java_12eae548"
+        },
+        {
+            "type": "java",
+            "name": "Pattern14",
+            "request": "launch",
+            "mainClass": "programing.patterns.Pattern14",
+            "projectName": "core java_12eae548"
+        },
+        {
+            "type": "java",
             "name": "Pattern13",
             "request": "launch",
             "mainClass": "programing.patterns.Pattern13",
