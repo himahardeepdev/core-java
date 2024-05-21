@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArrayListMethods",
+            "request": "launch",
+            "mainClass": "lessons.collectionfrmaeworks.ArrayLists.ArrayListMethods",
+            "projectName": "core java_12eae548"
+        },
+        {
+            "type": "java",
+            "name": "StudentList",
+            "request": "launch",
+            "mainClass": "lessons.collectionfrmaeworks.ArrayLists.StudentList",
+            "projectName": "core java_12eae548"
+        },
+        {
+            "type": "java",
+            "name": "ArrayList1",
+            "request": "launch",
+            "mainClass": "lessons.collectionfrmaeworks.ArrayLists.ArrayList1",
+            "projectName": "core java_12eae548"
+        },
+        {
+            "type": "java",
             "name": "Pattern22",
             "request": "launch",
             "mainClass": "programing.patterns.Pattern22",
