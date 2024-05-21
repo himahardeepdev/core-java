@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Number7",
+            "request": "launch",
+            "mainClass": "programing.numbers.Number7",
+            "projectName": "core java_12eae548"
+        },
+        {
+            "type": "java",
+            "name": "Number6",
+            "request": "launch",
+            "mainClass": "programing.numbers.Number6",
+            "projectName": "core java_12eae548"
+        },
+        {
+            "type": "java",
+            "name": "Number5",
+            "request": "launch",
+            "mainClass": "programing.numbers.Number5",
+            "projectName": "core java_12eae548"
+        },
+        {
+            "type": "java",
+            "name": "Number4",
+            "request": "launch",
+            "mainClass": "programing.numbers.Number4",
+            "projectName": "core java_12eae548"
+        },
+        {
+            "type": "java",
+            "name": "Number3",
+            "request": "launch",
+            "mainClass": "programing.numbers.Number3",
+            "projectName": "core java_12eae548"
+        },
+        {
+            "type": "java",
+            "name": "Number2",
+            "request": "launch",
+            "mainClass": "programing.numbers.Number2",
+            "projectName": "core java_12eae548"
+        },
+        {
+            "type": "java",
+            "name": "Number1",
+            "request": "launch",
+            "mainClass": "programing.numbers.Number1",
+            "projectName": "core java_12eae548"
+        },
+        {
+            "type": "java",
             "name": "ArrayListMethods",
             "request": "launch",
             "mainClass": "lessons.collectionfrmaeworks.ArrayLists.ArrayListMethods",
