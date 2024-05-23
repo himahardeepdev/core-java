@@ -1,4 +1,4 @@
-package lessons.collectionfrmaeworks.ArrayLists;
+package lessons.collectionfrmaeworks.List.ArrayLists;
 
 public class Student {
     int id;

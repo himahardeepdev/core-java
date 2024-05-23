@@ -1,4 +1,4 @@
-package lessons.collectionfrmaeworks.ArrayLists;
+package lessons.collectionfrmaeworks.List.ArrayLists;
 
 import java.util.ArrayList;
 import java.util.Iterator;
